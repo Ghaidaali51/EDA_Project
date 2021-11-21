@@ -67,6 +67,10 @@ Data set source  :
 </ul>
 
 <h2> Communication </h2>
-![image](https://user-images.githubusercontent.com/88141348/142759131-b3f787c7-d918-4c03-b8e7-12578100d9b7.png)
+<img alt="Qries" src="https://user-images.githubusercontent.com/88141348/142759224-d3d1b602-c856-442b-93d3-05341db7657c.png">
+<img alt="Qries" src="https://user-images.githubusercontent.com/88141348/142759276-05acc522-3b2f-4bb6-8a32-12a4039100ce.png">
+<img alt="Qries" src="https://user-images.githubusercontent.com/88141348/142759313-20b44e1c-22d6-42d2-9400-c08b1a2d8d7d.png">
+
+
 
 
